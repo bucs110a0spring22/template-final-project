@@ -43,7 +43,7 @@
 
 The Project is broken down into the following file structure:
 * main.py
-* bin
+* src
     * <all of your python files should go here>
 * assets
     * <all of your media, i.e. images, font files, etc, should go here)
